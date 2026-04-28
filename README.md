@@ -11,7 +11,7 @@
   - JavaScript | Node.js | React  
   - Java | Spring Boot  
 - 📚 Sempre buscando evoluir com boas práticas, arquitetura de software e código limpo  
-- ⚡ Interesse em APIs, microsserviços e sistemas robustos  
+
 
 ---
 
